@@ -1,0 +1,242 @@
+{
+  "basics": {
+    "name": "Martín Nicolás Paneblanco",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
+    "image": "/me.webp",
+    "email": "nikodevfromar@gmail.com",
+    "phone": "+54 2972-413110",
+    "url": "https://midu.dev",
+    "summary": "Actualmente me desenvuelvo en el area de Front end. Vivo en San Martín de los Andes, Neuquén Argentina. He trabajado en start-ups, y actualmente me encuentro en relación de dependencia.",
+    "location": {
+      "address": "",
+      "postalCode": "8370",
+      "city": "San Martín de los Andes",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Nicolás Paneblanco",
+        "url": "https://www.linkedin.com/in/nicol%C3%A1s-paneblanco-527108190/"
+      },
+      {
+        "network": "X",
+        "username": "Nicolás paneblanco",
+        "url": "https://x.com/_nikodev"
+      },
+      {
+        "network": "GitHub",
+        "username": "nikoDev",
+        "url": "https://github.com/pmNiko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "appsmagob",
+      "position": "Desarrollador Front-End",
+      "url": "https://app.sma.gob.ar/",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "summary": "App para el pago de contribuyentes del municipio de la ciudad de San Martín de los Andes",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Curso de programación",
+      "position": "Instructor",
+      "url": "https://github.com/pmNiko/POO-Python",
+      "startDate": "2021-06-01",
+      "endDate": "2021-12-01",
+      "summary": "Se brindo a la comunidad un curso de Python desde las bases hasta programación orientada a objecto. Fue una de las mejores experiencia que tube en mi carrera.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Start-up",
+      "position": "Lead Frontend",
+      "startDate": "2018-06-01",
+      "endDate": "2019-06-01",
+      "summary": "Desarrollé una plataforma de comandas para la gestión de un restaurant, la cual llamamos SUSI. La misma fue desarrollada en Ruby on Rails y desplegada en Heroku.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UTN FRN",
+      "url": "https://frn.cvg.utn.edu.ar/course/index.php?categoryid=30",
+      "area": "Técnico Superior en Sistemas Informáticos",
+      "studyType": "Técnico",
+      "startDate": "2015-06-01",
+      "endDate": "2018-06-01",
+      "score": "4.0",
+      "courses": ["JAVA - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "MUI",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Express js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calendar-app",
+      "isActive": true,
+      "description": "Calendario de eventos",
+      "highlights": ["RTK Query", "Finalizado"],
+      "url": "https://mern-calendar-backend-api.up.railway.app/auth/login"
+    },
+    {
+      "name": "mf-shell",
+      "isActive": true,
+      "description": "Prueba de concepto de federación de módulos",
+      "highlights": ["module-federation", "Finalizado"],
+      "url": "https://mf-shell.onrender.com/"
+    },
+    {
+      "name": "maps.app",
+      "isActive": true,
+      "description": "App de geolocalización",
+      "highlights": [
+        "JavaScript & TypeScript",
+        "Finalizzado"
+      ],
+      "url": "https://maps-app-niko.netlify.app/"
+    }
+  ]
+}
