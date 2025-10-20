@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+  "build": "astro check && astro build && rm -rf docs && cp -R dist docs",
     "preview": "astro preview",
     "astro": "astro",
     "format": "npx prettier . --write"
